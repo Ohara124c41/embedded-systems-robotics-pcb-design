@@ -1,5 +1,13 @@
 # KiCad PCB Projects
 
+## What You'll Learn
+- Designing for reliability with watchdog supervision
+- Expanding I2C systems with multiplexed sensor buses
+- Building simple, readable status indicators
+- Using RS-485 for long-distance, noise-immune serial links
+- Applying these patterns in embedded robotics and space-adjacent systems like
+  Astrobee-class free flyers, drones, rovers, and nano/cube sats
+
 ## watchdog_tpl5010
 Low-power TPL5010 watchdog timer that wakes a host and asserts reset if the DONE pulse is missing.
 
