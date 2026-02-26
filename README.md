@@ -6,7 +6,7 @@
 - Building simple, readable status indicators
 - Using RS-485 for long-distance, noise-immune serial links
 - Applying these patterns in embedded robotics and space-adjacent systems like
-  Astrobee-class free flyers, drones, rovers, and nano/cube sats
+  Astrobee-class free flyers, drones, rovers, and nano/cube sats (more tbd)
 
 ## watchdog_tpl5010
 Low-power TPL5010 watchdog timer that wakes a host and asserts reset if the DONE pulse is missing.
